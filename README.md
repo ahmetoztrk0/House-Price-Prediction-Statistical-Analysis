@@ -26,7 +26,7 @@ Konut fiyatlarını etkileyen temel faktörleri belirlemek ve istatistiksel vars
 
 ---
 
-## 💻 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 * **Dil:** Python
 * **Kütüphaneler:** Pandas, Numpy, Seaborn, Matplotlib, Statsmodels, Scikit-learn, Scipy
 
