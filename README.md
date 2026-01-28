@@ -1,6 +1,6 @@
 # House Price Prediction: İstatistiksel Modelleme ve Regresyon Analizi
 
-Bu proje, Kaggle'ın "House Prices - Advanced Regression Techniques" veri seti üzerinde gerçekleştirilmiş; veri temizleme, keşifçi veri analizi (EDA) ve **Çoklu Doğrusal Regresyon** aşamalarını içeren kapsamlı bir istatistiksel çalışmadır.
+Bu proje, Kaggle'ın "House Prices - Advanced Regression Techniques" (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) veri seti üzerinde gerçekleştirilmiş; veri temizleme, keşifçi veri analizi (EDA) ve **Çoklu Doğrusal Regresyon** aşamalarını içeren kapsamlı bir istatistiksel çalışmadır.
 
 ## Projenin Amacı
 Konut fiyatlarını etkileyen temel faktörleri belirlemek ve istatistiksel varsayımları (normallik, homoscedasticity vb.) koruyarak yüksek açıklayıcılık gücüne sahip bir tahmin modeli geliştirmektir.
